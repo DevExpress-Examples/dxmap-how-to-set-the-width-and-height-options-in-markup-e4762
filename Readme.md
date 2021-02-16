@@ -1,10 +1,3 @@
-# dxMap - How to set the width and height options in markup
+# This example is obsolete
 
-
-<p>This example illustrates an approach described in the '<a href="http://www.devexpress.com/Support/Center/Question/Details/KA18813"><u>dxMap - Why it is impossible to set a size via the style property and how to set a size in percentage</u></a>' Knowledge Base article.</p><br />
-<p><strong>See also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E4763">dxMap - How to set the width and height options in a Model via JavaScript</a></p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
